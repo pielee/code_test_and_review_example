@@ -9,6 +9,6 @@ def minus(a, b):
 def modulo(a, b):
     """a mod b"""
     if b == 0:
-        print("Can't operate!")
+        print("Can't operate!!")
     else:
         return a % b
