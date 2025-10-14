@@ -13,3 +13,4 @@
 - Provided `README.md` with basic project information and setup instructions.
 
 - Added modulo function in `functions.py`
+- Change modulo function
