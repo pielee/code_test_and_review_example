@@ -7,5 +7,5 @@ def minus(a, b):
     return a - b
 
 def divide(a, b):
-    pass
+    return a / b
 #dd

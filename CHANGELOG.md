@@ -16,3 +16,6 @@
 ### Added
 
 - Added `divide(a, b)` function in `functions.py` to perform division.
+
+### fixed 
+- divide 함수 수정했습니다. 
