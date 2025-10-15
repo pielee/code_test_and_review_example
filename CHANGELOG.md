@@ -11,3 +11,11 @@
 - Set up GitHub Actions workflows for automated testing and code review.
 - Created `requirements.txt` for managing project dependencies.
 - Provided `README.md` with basic project information and setup instructions.
+## [Unreleased]
+
+### Added
+
+- Added `divide(a, b)` function in `functions.py` to perform division.
+
+### fixed 
+- divide 함수 수정했습니다. 
