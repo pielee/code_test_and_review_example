@@ -7,7 +7,7 @@ def minus(a, b):
     return a - b
 
 def share(a, b):
-  """ """"
+  """a share b """"
     return a // b
   
 def modulo(a, b):
