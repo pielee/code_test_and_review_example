@@ -14,5 +14,6 @@
 - Created `requirements.txt` for managing project dependencies.
 - Provided `README.md` with basic project information and setup instructions.
 
+- Added share function in `functions.py`
 - Added modulo function in `functions.py`
 - Added multiply function in `functions.py`
