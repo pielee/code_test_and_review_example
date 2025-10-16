@@ -7,4 +7,4 @@ def minus(a, b):
     return a - b
 
 def share(a, b):
-    return a % b
+    return a // b
