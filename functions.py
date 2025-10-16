@@ -12,3 +12,6 @@ def modulo(a, b):
         print("Can't operate!!")
     else:
         return a % b
+def multiply(a, b):
+    """Multiply two numbers"""
+    return a * b 
