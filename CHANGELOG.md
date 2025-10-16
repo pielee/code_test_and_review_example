@@ -1,11 +1,5 @@
 # Changelog
 
-## [Unreleased]
-
-### Added
-
-- Added `multiply(a, b)` function in `functions.py` to perform multiplication.
-
 ----------------------
 
 ## [1.0.0] - 2025-05-11
@@ -21,4 +15,4 @@
 - Provided `README.md` with basic project information and setup instructions.
 
 - Added modulo function in `functions.py`
-- Change modulo function
+- Added multiply function in `functions.py`
