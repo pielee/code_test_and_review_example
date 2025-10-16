@@ -1,5 +1,7 @@
 # Changelog
 
+----------------------
+
 ## [1.0.0] - 2025-05-11
 
 ### Added
@@ -11,3 +13,6 @@
 - Set up GitHub Actions workflows for automated testing and code review.
 - Created `requirements.txt` for managing project dependencies.
 - Provided `README.md` with basic project information and setup instructions.
+
+- Added modulo function in `functions.py`
+- Added multiply function in `functions.py`

@@ -9,3 +9,12 @@ def minus(a, b):
 def share(a, b):
     pass
 
+def modulo(a, b):
+    """a mod b"""
+    if b == 0:
+        print("Can't operate!!")
+    else:
+        return a % b
+def multiply(a, b):
+    """Multiply two numbers"""
+    return a * b 
