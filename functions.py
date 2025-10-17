@@ -7,5 +7,20 @@ def minus(a, b):
     return a - b
 
 def divide(a, b):
+  """a divide b"""
     return a / b
-#dd
+  
+def share(a, b):
+  """a share b """"
+    return a // b
+  
+def modulo(a, b):
+    """a mod b"""
+    if b == 0:
+        print("Can't operate!!")
+    else:
+        return a % b
+      
+def multiply(a, b):
+    """Multiply two numbers"""
+    return a * b

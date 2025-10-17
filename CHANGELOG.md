@@ -1,5 +1,7 @@
 # Changelog
 
+----------------------
+
 ## [1.0.0] - 2025-05-11
 
 ### Added
@@ -12,10 +14,9 @@
 - Created `requirements.txt` for managing project dependencies.
 - Provided `README.md` with basic project information and setup instructions.
 ## [Unreleased]
-
 ### Added
 
-- Added `divide(a, b)` function in `functions.py` to perform division.
-
-### fixed 
-- divide 함수 수정했습니다. 
+- Added divide function in `functions.py`
+- Added share function in `functions.py`
+- Added modulo function in `functions.py`
+- Added multiply function in `functions.py`
