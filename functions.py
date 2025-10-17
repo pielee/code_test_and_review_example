@@ -6,6 +6,10 @@ def minus(a, b):
     """Subtract b from a."""
     return a - b
 
+def divide(a, b):
+  """a divide b"""
+    return a / b
+  
 def share(a, b):
   """a share b """"
     return a // b
@@ -19,4 +23,4 @@ def modulo(a, b):
       
 def multiply(a, b):
     """Multiply two numbers"""
-    return a * b 
+    return a * b
